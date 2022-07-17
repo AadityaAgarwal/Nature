@@ -85,3 +85,9 @@ h1 {
     -ms-transform: translate(-50%, -50%);
     -o-transform: translate(-50%, -50%);
 }
+
+h1 span {
+    font-size: 130px;
+    line-height: 140px;
+    display: block;
+}
